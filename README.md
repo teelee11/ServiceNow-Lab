@@ -1,7 +1,7 @@
 <h1>ServiceNow Ticket Simulation</h1>
 <h2>Loom Video Walkthrough </h2>
 
-- [Getting Started with ServiceNow](link goes here)
+- [Getting Started with ServiceNow](https://www.loom.com/share/d7ece94214fe4f6ba3d1bca4a2592571?sid=fd72e04d-c5d9-43e9-9113-6576bf8278e7)
 <h2>Description</h2>
 This project involves setting up and working within a ServiceNow developer instance to create and manage tickets. The goal of this lab is to gain hands-on experience with one of the most widely-used IT service management platforms and to build confidence navigating its interface and functionality. 
 <br />
@@ -12,7 +12,7 @@ This project involves setting up and working within a ServiceNow developer insta
 
 <p>Once I accessed the ServiceNow Developer Site, I registered for an account and requested a personal developer instance. This environment replicates a real-world ServiceNow interface and allows for full testing and experimentation with the platform.</p>
  
-![image alt](link goes here)
+<img src="servicenow1.png" alt="main page" width="400">
 
 <h2>Types of Tickets </h2>
 <p style="margin-bottom: 20px;">After setting up the instance, I navigated to the Incidents section where I could explore how tickets are created, searched, updated, and resolved.</p>
@@ -25,7 +25,7 @@ This project involves setting up and working within a ServiceNow developer insta
 </ul>
 
 
-![image alt](image goes here.png)
+<img src="servicenow2.png" alt="ticket page" width="400">
 <!--
  ```diff
 - text in red
