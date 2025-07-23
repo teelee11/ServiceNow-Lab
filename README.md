@@ -25,7 +25,7 @@ This project involves setting up and working within a ServiceNow developer insta
 </ul>
 
 
-<img src="servicenow2.png" alt="ticket page" width="400">
+![imag alt](https://github.com/teelee11/ServiceNow-Lab/blob/737e1bbc482ce4ea5d21880a0ec580c43465cfc5/servicenow2.png)
 <!--
  ```diff
 - text in red
