@@ -12,7 +12,7 @@ This project involves setting up and working within a ServiceNow developer insta
 
 <p>Once I accessed the ServiceNow Developer Site, I registered for an account and requested a personal developer instance. This environment replicates a real-world ServiceNow interface and allows for full testing and experimentation with the platform.</p>
  
-<img src="servicenow1.png" alt="main page" width="400">
+![image alt](https://github.com/teelee11/ServiceNow-Lab/blob/97fdeca8eb6f447cdf1852eb59619d4522c8f9fd/servicenow1.png)
 
 <h2>Types of Tickets </h2>
 <p style="margin-bottom: 20px;">After setting up the instance, I navigated to the Incidents section where I could explore how tickets are created, searched, updated, and resolved.</p>
